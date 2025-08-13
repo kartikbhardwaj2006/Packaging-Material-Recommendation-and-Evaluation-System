@@ -1,4 +1,4 @@
-📦 Packaging Material Info Program
+📦Packaging Material Recommendation and Evaluation System
 A simple C program to explore different packaging materials, their costs, recyclability, and seasonal suitability. Perfect for students, developers, or anyone curious about sustainable packaging! 🌱
 
 🚀 Features
