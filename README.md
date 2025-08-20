@@ -70,3 +70,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 🤝 Contributing
 Feel free to improve the program by adding more materials, better formatting, or extra features!
 
+🛠 **Made with ❤️ by Kartik Bhardwaj**
